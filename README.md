@@ -1,17 +1,18 @@
 # Halo, Saya M. Rizky Rinaldy! 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀" alt="Typing Effect" />
+
 ---
 
-> 💡 *"Coding itu bukan tentang mengetik kode dengan cepat, tapi tentang menyelesaikan masalah dengan solusi terbaik."*
+> 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
 ### 🚀 Tentang Saya
 ### 💻 Teknologi & Tools yang Saya Gunakan
 
 ⚡ **Bahasa Pemrograman & Web**
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascal">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=sql&logoColor=%23F7DF1E" alt="SQL">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
@@ -26,7 +27,6 @@
 - 🌱 Saya sedang mendalami **Pemrograman Berbasis Aplikasi Desktop maupun Web**
 - 💬 Tanya saya tentang **Dasar-dasar dalam Pemrograman**
 
-### 🛠️ Hubungi Saya & Media Sosial
 ### 🛠️ Hubungi Saya & Media Sosial
 <a href="https://www.linkedin.com/in/rizky-rinaldy-profile" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
