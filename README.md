@@ -1,8 +1,16 @@
-# Halo, Saya M. Rizky Rinaldy! 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=M.%20Rizky%20Rinaldy&fontSize=56&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀" alt="Typing Effect" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀&align=center" alt="Typing Effect" />
+</p>
 
-> 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
+<p align="center">
+  <i>💡 "Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"</i>
+</p>
+
+---
 
 ### 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja di **PT. SEFAS PELINDOTAMA** dan Berkuliah di **UNIVERSITAS ISLAM KALIMANTAN**
@@ -68,19 +76,4 @@
 Visualisasi aktivitas coding saya di GitHub:
 
 | Statistik Kontribusi | Bahasa yang Sering Digunakan |
-| -------------------- | ---------------------------- |
-| ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical) | ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical) |
-
-<br />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=rnld-devcode&label=Profile+Views&color=0077B5&style=flat-square" alt="Visitor Count" />
-</p>
+| ----------------
