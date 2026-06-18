@@ -75,21 +75,11 @@ Visualisasi aktivitas coding saya di GitHub:
 
 <br />
 
-### 📊 Statistik GitHub
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
+</p>
 
-Visualisasi aktivitas coding saya di GitHub:
-
-| Statistik Kontribusi | Bahasa yang Sering Digunakan |
-| -------------------- | ---------------------------- |
-| ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical) | ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical) |
-
-<br />
-
-<!-- Menggunakan GitHub Streak yang sudah terbukti aktif di profil Anda -->
-![GitHub Streak](https://streak-stats.demolab.com?user=rnld-devcode&theme=radical)
-
-<!-- Alternatif Trofi: Menggunakan Badges Premium dari Shields.io (Sangat Stabil) -->
-![GitHub Trophies](https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github)
-
-<!-- Alternatif Visitor Count: Menggunakan Hits-ID yang anti-eror -->
-![Visitor Count](https://images.coollabs.io/c/rnld-devcode)
+<p align="center">
+  <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
+  <img src="https://cb.yhype.me/v1/badge.svg?user=rnld-devcode&style=for-the-badge&color=0077B5&label=Profile+Views" alt="Visitor Count" />
+</p>
