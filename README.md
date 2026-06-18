@@ -1,4 +1,5 @@
-![Header Banner](https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=M-Rizky-Rinaldy&fontSize=56&animation=fadeIn&fontAlignY=35)
+![Header Banner](https://img.shields.io/badge/M._Rizky_Rinaldy-Profile-39FF14?style=for-the-badge&labelColor=000000)
+
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Hi+There.;Saya+M.+Rizky+Rinaldy.;Semangat+Coding!+🚀)
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
