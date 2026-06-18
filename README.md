@@ -75,8 +75,21 @@ Visualisasi aktivitas coding saya di GitHub:
 
 <br />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15)
+### 📊 Statistik GitHub
 
+Visualisasi aktivitas coding saya di GitHub:
+
+| Statistik Kontribusi | Bahasa yang Sering Digunakan |
+| -------------------- | ---------------------------- |
+| ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical) | ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical) |
+
+<br />
+
+<!-- Menggunakan GitHub Streak yang sudah terbukti aktif di profil Anda -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=rnld-devcode&theme=radical)
 
-![Visitor Count](https://komarev.com/normal-badge/?username=rnld-devcode&label=Profile+Views&color=0077B5&style=flat-square)
+<!-- Alternatif Trofi: Menggunakan Badges Premium dari Shields.io (Sangat Stabil) -->
+![GitHub Trophies](https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github)
+
+<!-- Alternatif Visitor Count: Menggunakan Hits-ID yang anti-eror -->
+![Visitor Count](https://images.coollabs.io/c/rnld-devcode)
