@@ -67,13 +67,13 @@
 
 ### 📊 Statistik GitHub
 
-Visualisasi aktivitas coding saya di GitHub:
-
-| Statistik Kontribusi | Bahasa yang Sering Digunakan |
-| -------------------- | ---------------------------- |
-| ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical) | ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical) |
-
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical)
 <br />
+![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical)
+<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
@@ -81,5 +81,4 @@ Visualisasi aktivitas coding saya di GitHub:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
-  <img src="https://cb.yhype.me/v1/badge.svg?user=rnld-devcode&style=for-the-badge&color=0077B5&label=Profile+Views" alt="Visitor Count" />
 </p>
