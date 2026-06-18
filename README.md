@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=M.%20Rizky%20Rinaldy&fontSize=56&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
-</p>
+![Header Banner](https://capsule-render.vercel.app/type=waving&color=auto&height=220&section=header&text=M.%20Rizky%20Rinaldy&fontSize=56&animation=fadeIn&fontAlignY=35)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀&align=center" alt="Typing Effect" />
-</p>
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀)
 
-<p align="center">
-  <i>💡 "Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"</i>
-</p>
+> 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
 ---
 
