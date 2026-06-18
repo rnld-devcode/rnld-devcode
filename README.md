@@ -5,7 +5,7 @@
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
 ### 🚀 Tentang Saya
-- 🔭 Saat ini saya sedang bekerja/belajar di **PT. SEFAS PELINDOTAMA**
+- 🔭 Saat ini saya sedang bekerja di **PT. SEFAS PELINDOTAMA** dan Berkuliah di **UNIVERSITAS ISLAM KALIMANTAN**
 - 🌱 Saya sedang mendalami **Pemrograman Berbasis Aplikasi Desktop maupun Web**
 - 💬 Tanya saya tentang **Dasar-dasar dalam Pemrograman**
 
