@@ -66,19 +66,18 @@
 ---
 
 ### 📊 Statistik GitHub
-
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical)
-<br />
-![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical)
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical" alt="Statistik GitHub" />
+</p>
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
 </p>
-
+<br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical" alt="Bahasa Populer" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
