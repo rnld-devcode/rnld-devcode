@@ -1,8 +1,6 @@
 # Halo, Saya M. Rizky Rinaldy! 👋 
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀" alt="Typing Effect" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Desktop+and+Web+Developer.;Sedang+mendalami+Pemrograman.;Semangat+Coding!+🚀" alt="Typing Effect" />
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
@@ -74,11 +72,11 @@ Visualisasi aktivitas coding saya di GitHub:
 | ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=rnld-devcode&show_icons=true&theme=radical) | ![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical) |
 
 <br />
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
 </p>
