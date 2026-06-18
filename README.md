@@ -75,14 +75,8 @@ Visualisasi aktivitas coding saya di GitHub:
 
 <br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rnld-devcode&theme=radical&margin-w=15)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rnld-devcode&theme=radical" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=rnld-devcode&theme=radical)
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=rnld-devcode&label=Profile+Views&color=0077B5&style=flat-square" alt="Visitor Count" />
-</p>
+![Visitor Count](https://komarev.com/normal-badge/?username=rnld-devcode&label=Profile+Views&color=0077B5&style=flat-square)
