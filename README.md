@@ -17,7 +17,7 @@
 
 ### 🎵 Sedang Mendengarkan
 <p align="center">
-  <a href="(https://open.spotify.com/user/31yuzoubtydl5qkbt7a4yz7mlhsu)" target="_blank">
+  <a href="(https://open.spotify.com/user/31yuzoubtydl5qkbt7a4yz7mlhsu))" target="_blank">
     <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify" />
   </a>
 </p>
