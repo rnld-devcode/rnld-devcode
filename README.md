@@ -13,6 +13,17 @@
 
 ---
 
+---
+
+### 🎵 Sedang Mendengarkan
+<p align="center">
+  <a href="(https://open.spotify.com/user/31yuzoubtydl5qkbt7a4yz7mlhsu)" target="_blank">
+    <img src="https://novatorem-spotify-readme.vercel.app/api/spotify" alt="Spotify" />
+  </a>
+</p>
+
+---
+
 ### 💻 Teknologi & Tools yang Saya Gunakan
 
 ⚡ **Bahasa Pemrograman**
@@ -46,24 +57,14 @@
 ---
 ### 🛠️ Hubungi Saya & Media Sosial
 
-<a href="https://www.linkedin.com/in/rizky-rinaldy-profile" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkyrinaldy.schwork@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://wa.me/62882022216159" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-<a href="https://instagram.com/riz.rinaldy" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://facebook.com/rizky.rinaldy" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://youtube.com/@RNLDevCode" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
+Klik Icon Untuk melanjutkan:
+
+<a href="https://www.linkedin.com/in/rizky-rinaldy-profile" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkyrinaldy.schwork@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://wa.me/62882022216159" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://instagram.com/riz.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://facebook.com/rizky.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://youtube.com/@RNLDevCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 
 ---
 
@@ -78,8 +79,14 @@
 ---
 
 ### 🎯 Target Tahun Ini
-- 🎯 Sedang mempelajari dasar-dasar **Web Framework (Laravel)** untuk melengkapi keahlian Pemprograman Web saya.
+- 🎯 Sedang mempelajari dasar-dasar **Web Framework (Laravel)** untuk melengkapi keahlian Pemrograman Web saya.
 - 🚀 Mengembangkan pemahaman tentang **Arsitektur Database Relasional (RDBMS & NewSQL)** yang lebih kompleks menggunakan MySQL.
+
+---
+
+### 📂 Proyek Unggulan
+- 💻 **[RepoTugasRizky](https://github.com/rnld-devcode/RepoTugasRizky)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
+- 💻 **[TugasParaktikum](https://github.com/rnld-devcode/Praktikum_2510010102_M.RizkyRinaldy)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
 - 
 ---
 
