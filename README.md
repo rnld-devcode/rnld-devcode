@@ -97,5 +97,7 @@ Klik Icon Untuk melanjutkan:
 <p align="center">
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
-
-<img src="https://komarev.com/ghvc/?username=rnld-devcode&color=green&style=flat-square" />
+<br>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frnld-devcode&count_bg=%23FF69B4&title_bg=%232F2F2F&icon=github&icon_color=%23FFFFFF&title=visitors&edge_flat=false" alt="Visitor Count"/>
+</p>
