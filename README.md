@@ -13,16 +13,6 @@
 
 ---
 
-### 🎵 Sedang Mendengarkan
-
-<p align="left">
-  <a href="https://open.spotify.com/user/31yuzoubtydl5qkbt7a4yz7mlhsu" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
-
----
-
 ### 💻 Teknologi & Tools yang Saya Gunakan
 
 ⚡ **Bahasa Pemrograman**
