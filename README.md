@@ -1,14 +1,12 @@
-<table width="100%">
-<tr>
-<td bgcolor="#0d1117">
-
 ![Header Banner](https://img.shields.io/badge/M._Rizky_Rinaldy-Profile-39FF14?style=for-the-badge&labelColor=000000)
 
-![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Hi+There.;Saya+M.+Rizky+Rinaldy.;Semangat+Coding!+🚀)
+![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20B2AA&vCenter=true&width=500&lines=Hi+There.;Saya+M.+Rizky+Rinaldy.;Semangat+Coding!+🚀)
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
@@ -54,22 +52,26 @@
 
 Klik Icon Untuk melanjutkan:
 
-<a href="https://www.linkedin.com/in/rizky-rinaldy-profile" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkyrinaldy.schwork@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://wa.me/62882022216159" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://instagram.com/riz.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://facebook.com/rizky.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://youtube.com/@RNLDevCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/rizky-rinaldy-profile" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkyrinaldy.schwork@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://wa.me/62882022216159" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://instagram.com/riz.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://facebook.com/rizky.rinaldy" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://youtube.com/@RNLDevCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
 
 ---
 
 ### 🐍 Aktivitas Kontribusi
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/rnld-devcode/rnld-devcode/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -97,11 +99,3 @@ Klik Icon Untuk melanjutkan:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical" alt="Bahasa Populer" />
 </p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
-</p>
-
-</td>
-</tr>
-</table>
