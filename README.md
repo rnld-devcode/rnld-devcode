@@ -1,10 +1,16 @@
+<details open>
+<summary><b>🌑 RNLDev</b></summary>
+<br>
+
 ![Header Banner](https://img.shields.io/badge/M._Rizky_Rinaldy-Profile-39FF14?style=for-the-badge&labelColor=000000)
 
 ![Typing Effect](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39FF14&width=500&lines=Hi+There.;Saya+M.+Rizky+Rinaldy.;Semangat+Coding!+🚀)
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
@@ -78,7 +84,7 @@ Klik Icon Untuk melanjutkan:
 ### 📂 Proyek Unggulan
 - 💻 **[RepoTugasRizky](https://github.com/rnld-devcode/RepoTugasRizky)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
 - 💻 **[TugasParaktikum](https://github.com/rnld-devcode/Praktikum_2510010102_M.RizkyRinaldy)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
-- 
+
 ---
 
 ### 📊 Statistik GitHub
@@ -97,7 +103,5 @@ Klik Icon Untuk melanjutkan:
 <p align="center">
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
-<br>
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frnld-devcode&count_bg=%23FF69B4&title_bg=%232F2F2F&icon=github&icon_color=%23FFFFFF&title=visitors&edge_flat=false" alt="Visitor Count"/>
-</p>
+
+</details>
