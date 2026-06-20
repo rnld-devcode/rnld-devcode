@@ -1,6 +1,6 @@
-<details open>
-<summary><b>🌑 RNLDev</b></summary>
-<br>
+<table width="100%">
+<tr>
+<td bgcolor="#0d1117">
 
 ![Header Banner](https://img.shields.io/badge/M._Rizky_Rinaldy-Profile-39FF14?style=for-the-badge&labelColor=000000)
 
@@ -8,9 +8,7 @@
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
-<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ---
 
@@ -104,4 +102,6 @@ Klik Icon Untuk melanjutkan:
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
 
-</details>
+</td>
+</tr>
+</table>
