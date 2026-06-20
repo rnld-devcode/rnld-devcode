@@ -4,7 +4,7 @@
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
@@ -35,10 +35,9 @@
 
 ⚙️ **Sistem Operasi & IDE**
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Laravel-F24E1E?style=for-the-badge&logo=laravel&logoColor=white" alt="PyCharm">
 </p>
 
 🗂️ **Version Control**
@@ -98,4 +97,8 @@ Klik Icon Untuk melanjutkan:
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnld-devcode&layout=compact&theme=radical" alt="Bahasa Populer" />
+</p>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
