@@ -4,6 +4,8 @@
 
 > 💡 *"Setiap hari adalah kesempatan baru, maka hari ini harus lebih baik dari kemarin"*
 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 ---
 
 ### 🚀 Tentang Saya
@@ -95,3 +97,5 @@ Klik Icon Untuk melanjutkan:
 <p align="center">
   <img src="https://img.shields.io/badge/Aktivitas-75_Commits_Terakhir-FF69B4?style=for-the-badge&logo=github" alt="GitHub Trophies" />
 </p>
+
+<img src="https://komarev.com/ghvc/?username=rnld-devcode&color=green&style=flat-square" />
