@@ -8,7 +8,7 @@
 
 ### 🚀 Tentang Saya
 - 🔭 Saat ini saya sedang bekerja di **PT. SEFAS PELINDOTAMA** dan Berkuliah di **UNIVERSITAS ISLAM KALIMANTAN**
-- 🌱 Saya sedang mendalami **Pemrograman Berbasis Aplikasi Desktop maupun Web**
+- 🌱 Saya sedang mendalami **Pemrograman Berbasis Aplikasi Mobile, Desktop, dan Web**
 - 💬 Tanya saya tentang **Dasar-dasar dalam Pemrograman**
 
 ---
