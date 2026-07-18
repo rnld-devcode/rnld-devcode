@@ -78,7 +78,7 @@ Klik Icon Untuk melanjutkan:
 
 ### 📂 Proyek Unggulan
 - 💻 **[RepoTugasRizky](https://github.com/rnld-devcode/RepoTugasRizky)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
-- 💻 **[TugasParaktikum](https://github.com/rnld-devcode/Praktikum_2510010102_M.RizkyRinaldy)** — Repositori utama kompilasi tugas pemrograman Pascal & Struktur Data.
+- 💻 **[TugasPraktikum](https://github.com/rnld-devcode/Praktikum_2510010102_M.RizkyRinaldy)** — Repositori utama kompilasi tugas Praktikum.
 
 ---
 
