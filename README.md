@@ -56,7 +56,7 @@ Klik Icon Untuk melanjutkan:
   <a href="https://youtube.com/@RNLDevCode" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
----https://www.facebook.com/rizky.rinaldy.33633/
+---
 
 ### 🐍 Aktivitas Kontribusi
 
